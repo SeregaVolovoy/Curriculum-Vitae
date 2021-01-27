@@ -115,7 +115,17 @@ align-items: center;
           
             margin-bottom: 20px;
         }
-        
+        .hero-avatar{
+            margin-top: -50%;
+        width: 389px;
+        height: 389px;
+        background-color: #fff;
+        border-radius: 50%;
+        background-image: url(avatar/serega.jpg);
+        background-repeat: no-repeat;
+        background-position: center top -30px;
+        border: 13px solid #fff ;
+        }
         
         .hero-title{
             padding-right: none ;
