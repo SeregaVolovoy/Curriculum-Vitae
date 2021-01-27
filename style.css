@@ -1,5 +1,4 @@
 *{
-    border: 1px solid color inherit;
     box-sizing: border-box;
   text-align: justify;
 }
@@ -116,7 +115,7 @@ align-items: center;
             margin-bottom: 20px;
         }
         .hero-avatar{
-            
+        margin-top: -50%;
         width: 389px;
         height: 389px;
         background-color: #fff;
