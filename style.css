@@ -1,5 +1,6 @@
 *{
     box-sizing: border-box;
+
 }
 body   {
     margin: 0px;
@@ -113,17 +114,7 @@ align-items: center;
           
             margin-bottom: 20px;
         }
-        .hero-avatar{
-        margin-top: -50%;
-        width: 389px;
-        height: 389px;
-        background-color: #fff;
-        border-radius: 50%;
-        background-image: url(avatar/serega-avatar.jpg);
-        background-repeat: no-repeat;
-        background-position: center top -30px;
-        border: 13px solid #fff ;
-        }
+        
         
         .hero-title{
             padding-right: none ;
@@ -150,8 +141,18 @@ align-items: center;
             line-height: 28px;
             max-width: 420px;
             margin-bottom: 38px;
-        }.
- 
+        }
+        .hero-avatar{
+            margin-top: -50%;
+        width: 389px;
+        height: 389px;
+        background-color: #fff;
+        border-radius: 50%;
+        background-image: url(avatar/serega-avatar.jpg);
+        background-repeat: no-repeat;
+        background-position: center top -30px;
+        border: 13px solid #fff ;
+        }
         .features{
             background-color: black;
         }
