@@ -91,7 +91,7 @@ float:right;
         margin-top: 20px;
     }
     .hero-skills{
-        float:right;
+      
         text-align: justify;
         text-align: left;
         font-weight: bold;
@@ -148,6 +148,7 @@ float:right;
             margin-bottom: 38px;
         }
         .hero-avatar{
+            float:right;
             margin-top: -50%;
         width: 389px;
         height: 389px;
